@@ -1,0 +1,130 @@
+:root{
+    --clr-main-black: rgb(57, 57, 57);
+    --clr-second-black: rgb(44, 44, 44);
+    --clr-offwhite: rgb(228, 228, 228);
+    --clr-darkwhite: rgb(146, 146, 146);
+}
+
+.backdrop{
+    background-color: var(--clr-main-black)!important;
+}
+
+.mid-head{
+    background-color: var(--clr-main-black);
+    padding-top: 1em;
+}
+
+h1{
+    color: var(--clr-offwhite);
+}
+
+.navbar{
+    background-color: var(--clr-second-black);
+}
+
+#nav-links{
+    color: white;
+    display: flex;
+    /* padding: 0.5em 0.9em; */
+}
+
+#nav-link{
+    color: white;
+    display: block;
+    padding: 0.5em 0.9em;
+}
+
+ul.navbar-nav{
+    flex-direction: row;
+}
+
+#img-box{
+    padding: 1.5em 0em;
+}
+
+.white-box{
+    color: var(--clr-darkwhite);
+    background-color: var(--clr-offwhite);
+    padding: 1.5em 2em;
+}
+
+#top-image{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+#gallery-title{
+    padding: 2.5em 0em 0em 0em;
+    color: var(--clr-darkwhite);
+}
+
+#gallery-box{
+    padding-right: 0px!important;
+    padding-left: 0px!important;
+}
+
+#mid-layout-inner{
+    padding-right: 2em;
+    padding-left: 2em;
+}
+
+#mid-head{
+    padding: 1em 2em;
+}
+
+.gallery-line{
+    padding: 0px;
+}
+
+.gallery-image-list{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px;
+    flex-wrap: wrap;
+}
+
+.box2{
+    border:white solid 2px;
+}
+
+.gallery-image{
+    width: 15em;
+    height: 16em;
+    /* padding-right: 2em; */
+}
+
+li{
+    list-style-type: none;
+}
+
+.img-caption{
+    font-size: 1em;
+    background-color: var(--clr-offwhite);
+    color: var(--clr-darkwhite);
+    text-align: center;
+}
+
+.full-foot{
+    background-color: var(--clr-second-black);
+    height: 3em;
+    /* width: em; */
+}
+
+.container.mid-layout-middle.bg-light {
+    padding-bottom: 1em;
+}
+
+
+.inner-foot{
+    margin-left: 3.4em;
+    margin-right: 3.4em;
+    color: var(--clr-offwhite);
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1em;
+}
+
+
+.copyright .layout-credit{
+    font-size: 1em;
+}
