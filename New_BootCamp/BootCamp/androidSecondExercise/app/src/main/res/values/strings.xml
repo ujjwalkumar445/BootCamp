@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">androidSecondExercise</string>
+    <string name="msg_1">Username should not be Empty</string>
+    <string name="msg_2">Email id should not be Empty</string>
+    <string name="msg_3">Phone should not be Empty</string>
+    <string name="msg_4">Password should not be Empty</string>
+    <string name="msg_5">Invalid email. Please enter valid email.</string>
+    <string name="msg_7">Phone number Should be of 10 digits</string>
+    <string name="success_mgs">Register successfully</string>
+    <string name="msg_6">Invalid email or password</string>
+    <string name="web">web</string>
+    <string name="permission">Permission</string>
+    <string name="link_hint">www.google.com</string>
+    <string name="msg_8">Please enter the URL in textField</string>
+    <string name="info">info</string>
+
+</resources>
