@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "29789932471",
+    "firebase_url": "https://notification-exercise.firebaseio.com",
+    "project_id": "notification-exercise",
+    "storage_bucket": "notification-exercise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29789932471:android:600098966de9c41afdb632",
+        "android_client_info": {
+          "package_name": "com.example.notification_exercise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29789932471-61oa2mtb1nt8hdom09uoafqv8iab6sep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL8BeTsB3RUZjTJkIXnQAuJe0iA2Bx9qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29789932471-61oa2mtb1nt8hdom09uoafqv8iab6sep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
