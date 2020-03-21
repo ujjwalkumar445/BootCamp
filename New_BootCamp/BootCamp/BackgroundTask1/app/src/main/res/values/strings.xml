@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">BackgroundTask1</string>
-    <string name="download_using_service">Download using service</string>
-    <string name="download_using_asynctask">Download using AsyncTask</string>
-    <string name="cancel">Cancel</string>
-    <string name="resume">Resume</string>
-    <string name="pause">Pause</string>
-</resources>
