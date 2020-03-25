@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:key="user_name"
+        android:title="Username"
+        android:summary="set your username"/>
+    <SwitchPreference
+        android:key="switch"
+        android:title="switch Preference"
+        android:summary="Switch false"
+        android:defaultValue="true"/>
+    <ListPreference
+        android:key="list"
+        android:title="List Preference"
+        android:summary="This is list Preference"
+        android:entries="@array/list"
+        android:entryValues="@array/list"/>
+
+</PreferenceScreen>
