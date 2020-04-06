@@ -1,0 +1,2 @@
+rootProject.name='DataBindingKotlin1'
+include ':app'
